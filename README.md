@@ -39,7 +39,11 @@ O projeto conta com um conjunto de ecrãs funcionais validados:
 
 Dashboard & Métricas em Tempo Real:
 
-Gerador de Carga / Simulação de Pedidos Massivos:
+* **Dashboard & Métricas em Tempo Real**:
+![Dashboard](exemplos/dashboard.jpeg)
+
+* **Gerador de Carga / Simulação de Pedidos Massivos**:
+![Gerador de Pedidos](exemplos/gerador.jpeg)
 
 🔒 Conformidade com a LGPD
 A aplicação implementa funcionalidades simuladas para atender aos requisitos legais de proteção de dados, incluindo o direito ao esquecimento e a anonimização de registos de clientes diretamente na base NoSQL.
